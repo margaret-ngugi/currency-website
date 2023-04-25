@@ -1,0 +1,173 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    background-image: url(IImages\ \(4\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 500px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+   
+   
+}
+.navbar{
+    margin-left: 10%;
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#but{
+     padding: 1%;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 2%;
+}
+.main1{
+    background-color: green;
+    width: 100%;
+    height: 80px;
+}
+.navbar1{
+    margin-left: 10%;
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.main3{
+    background-color: black;
+    width: 100%;
+    height: 2900px;
+}
+.table{
+    display: flex;
+    font-size: 10px;
+    color: black;
+    background-color: lightgray;
+    justify-content: space-between;
+    font-size: 20px;
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 450px;
+}
+.protection{
+    
+    padding: 3%;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: -70%;
+    margin-left: 5%;
+    
+
+}
+.ecosystem{
+    
+    padding: 3%;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 5%;
+    margin-left: 35%; 
+    margin-right: 5%; 
+}
+
+.payment{
+    padding: 3%;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 20px;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.convinience{
+    margin-left: 50%;
+    color: white;
+    margin-top: -40%;
+    background-color: black;
+  
+}
+.invest{
+    color: white;
+    margin-top: 30%;
+}
+.countries{
+    padding: 10%;
+    margin-left: 30%;
+    margin-top: 5%;
+    font-size: 30px;
+    height: 40vh;
+
+}
+.invested{
+    padding: 10%;
+    margin-left: 60%;
+    margin-top: -80%;
+    font-size: 30px;
+    
+
+}
+.but1{
+    margin-top: -4%;
+
+}
+.but{
+
+}
+.but{
+
+}
+.trust{
+    color: white;
+    margin-top: 4%;
+    font-size: 20px;
+}
+.support{
+    color: white;
+    margin-left: 60%;
+    margin-top: -30%;
+    font-size: 20px;
+}
+.portfolio{
+    color: white;
+    margin-top: 13%;
+    font-size: 20px;
+}
+.rewards{
+    background-color: palegoldenrod;
+    margin-left: 30%;
+    margin-right: 25%;
+    margin-top: 2%;
+}
+
+.cryptovest{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-top: 8%;
+    font-size: 25px;
+}
+
+
